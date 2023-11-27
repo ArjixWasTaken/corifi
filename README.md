@@ -1,6 +1,6 @@
 # Corifi ([κορυφή](https://en.wiktionary.org/wiki/%CE%BA%CE%BF%CF%81%CF%85%CF%86%CE%AE))
 
-A C compiler written in Rust.
+A naive C compiler written in Rust.
 
 ### Q: Why Corify?
 A: This is always going to be a bleeding edge project just like the peak of a mountain.
