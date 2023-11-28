@@ -2,6 +2,8 @@
 
 A naive C compiler written in Rust.
 
+ANSI C is the target of this project, and [ACSL 1.2](https://frama-c.com/download/acsl_1.2.pdf) (by FramaC) is the specification that this will be based on.
+
 ### Q: Why Corify?
 A: This is always going to be a bleeding edge project just like the peak of a mountain.
 
